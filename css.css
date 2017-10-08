@@ -1,110 +1,109 @@
 body{
-	background-image: url("https://images.alphacoders.com/557/557516.jpg");
-	background-attachment: fixed;
-	color:white;
+    background: url("https://images.alphacoders.com/557/557516.jpg") center center fixed;
+    color: #fff;
 }
 
 .container{
-	background-color: rgba(0, 0, 0, 0.7);  
-	color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
 }
 
 .donation_main{
-	background-color: rgba(0, 0, 0, 0.7);
-	border: 8px solid black;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 8px solid #000;
 }
 
 .checkbox .checkbox-material .check{
-	border: 1px solid rgba(255, 255, 255, 0.9);
+    border: 1px solid rgba(255, 255, 255, 0.9);
 }
 
 .navbar-right .dropdown-menu, .dropdown-menu, .modal-content, .btn.btn-default{
-	background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.9);
 }
 
 .table-striped tbody tr:nth-of-type(2n+1){
-	background-color: rgba(0, 0, 0, 1);
+    background-color: rgba(0, 0, 0, 1);
 }
 
 .panel{
-	background-color: rgba(0, 0, 0, 0.9);
-	color: white;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #fff;
 }
 
 #main_notifications{
-	background-color: black;
-	color: white;
+    background-color: #000;
+    color: #fff;
 }
 
 label, caption, .dropdown-menu li a, .btn.btn-primary.btn-simple, .navbar .navbar-nav li a.btn.btn-primary.btn-simple, .form-control, .btn.btn-primary.btn-simple:focus, .btn.btn-primary.btn-simple:hover, a.list-group-item, a, a:hover, a:focus, .box-title p, .box-header i, .form-group label.control-label, .panel-default .panel-heading, .form-group label, .input-group-addon{
-	color: white;
+    color: #fff;
 }
 
 .table tbody tr.active th, .panel .panel-heading, .panel.panel-default .panel-heading, .panel-footer{
-	background-color: #000;
+    background-color: #000;
 }
 
 .box-content, .list-group-item{
-	color: white;
-	background-color: rgba(0, 0, 0, 0.5);
-	border: 1px solid rgba(0, 0, 0, 0.7);
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(0, 0, 0, 0.7);
 }
 
 .box{
-	border-color: rgba(0, 0, 0, 0.7);
-	background-color: rgba(0, 0, 0, 0.0);
+    border-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.0);
 }
 
 .box-header{
-	border-color: rgba(0, 0, 0, 0.7);
-	background-color: rgba(0, 0, 0, 1);
+    border-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 1);
 }
 
 .table-hover tbody tr:hover, .table-hover > tbody > tr.active:hover > th{
-  background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
 .note-editor.note-frame .note-editing-area .note-editable{
-	background-color: rgba(0, 0, 0, 1);
-}	
+    background-color: rgba(0, 0, 0, 1);
+}
 
 .note-editor.note-frame .note-editing-area .note-editable{
-	color: white;
-	background-color: rgb(35, 35, 35);
+    color: #fff;
+    background-color: rgb(35, 35, 35);
 }
 
 .pager li a, .pager li a:hover, .pricing-head h4{
-	background-color: rgba(0,0,0,0);
+    background-color: rgba(0,0,0,0);
 }
 
 .table tbody tr.success td{
-	background-color: #4caf50;
+    background-color: #4caf50;
 }
 
 .table tbody tr.danger td{
-	background-color: #f44336;
+    background-color: #f44336;
 }
 
 .table tbody tr.warning td{
-	background-color: #fbc02d;
+    background-color: #fbc02d;
 }
 
 .datepicker p:hover, .datepicker thead tr:first-child th:hover{
-	background-color: #555;
+    background-color: #555;
 }
 
 .table-hover tbody tr.danger:hover td{
-	background-color: #ff4b4b;
-}	
+    background-color: #ff4b4b;
+}
 
 .table-hover tbody tr.warning:hover td{
-	background-color: rgb(255, 204, 77);
+    background-color: rgb(255, 204, 77);
 }
 
 .table-hover tbody tr.success:hover td{
-	background-color: rgb(91, 192, 95);
+    background-color: rgb(91, 192, 95);
 }
 
 #main_footer_center{
-	padding-bottom: 20px;
+    padding-bottom: 20px;
 }
