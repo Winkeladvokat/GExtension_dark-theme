@@ -59,8 +59,8 @@ label, caption, .dropdown-menu li a, .btn.btn-primary.btn-simple, .navbar .navba
     background-color: rgba(0, 0, 0, 1);
 }
 
-.table-hover tbody tr:hover, .table-hover > tbody > tr.active:hover > th{
-    background-color: rgba(0, 0, 0, 0.8);
+.table-hover tbody tr:hover, .table-hover tbody tr.active:hover th{
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .note-editor.note-frame .note-editing-area .note-editable{
@@ -93,7 +93,7 @@ label, caption, .dropdown-menu li a, .btn.btn-primary.btn-simple, .navbar .navba
 }
 
 .table-hover tbody tr.danger:hover td{
-    background-color: #ff4b4b;
+    background-color: rgb(255, 75, 75);
 }
 
 .table-hover tbody tr.warning:hover td{
