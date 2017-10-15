@@ -88,7 +88,7 @@ label, caption, .dropdown-menu li a, .btn.btn-primary.btn-simple, .navbar .navba
     background-color: #fbc02d;
 }
 
-.datepicker p:hover, .datepicker thead tr:first-child th:hover{
+.datepicker p:hover, .datepicker thead tr:first-child th:hover, option{
     background-color: #555;
 }
 
@@ -106,8 +106,4 @@ label, caption, .dropdown-menu li a, .btn.btn-primary.btn-simple, .navbar .navba
 
 #main_footer_center{
     padding-bottom: 20px;
-}
-
-option{
-	background-color: #555
 }
